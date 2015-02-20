@@ -1,0 +1,1 @@
+(function(){$(function(){return $("#downloadLink").click(function(){return function(){return ga("send","event","Download","PDF","Download book version 3",1,{nonInteraction:1}),!0}}(this)),$("#readLink").click(function(){return function(){return ga("send","event","Read","HTML","Open html book version 3",1,{nonInteraction:1}),!0}}(this))})}).call(this);
